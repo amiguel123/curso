@@ -1,0 +1,67 @@
+body{
+	background: #D7D7D7;
+	margin:0;
+	padding: 0;
+	font-family: arial;
+}
+
+
+
+
+	
+
+/*-----menu navegacion*/
+.menu-navegacion{
+	background: :#FF0078;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+
+.menu-navegacion ul{
+	margin:0;
+
+}
+.menu-navegacion ul li{
+	
+	display: inline;
+	list-style: none;
+	
+	
+}
+
+.menu-navegacion ul li a{
+	background: #FF0078;
+	padding: 10px 10px solid red;
+	text-decoration: none;
+	color: white;
+
+}
+
+.menu-navegacion ul li:hover {
+	background: black;
+}
+/* Titulo Principal*/
+.titulo-principal{
+	background: #FF0078
+}
+.titulo-principal h1{
+	margin: 0;
+	color: #fff;
+	font-size: 16px;
+	padding: 15px 0;
+	padding-left: 10px;
+
+}
+/*introduccion*/
+.introduccion h2{
+	display: block;
+	width: 50%;
+	text-align: center;
+	margin: auto;
+	padding-bottom: 35px;
+	border-bottom: 1px solid gray;
+
+
+
+}
